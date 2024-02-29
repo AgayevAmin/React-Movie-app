@@ -1,0 +1,32 @@
+.header{
+   
+    background-color: rgb(242, 242, 242);
+    box-shadow: 2px 2px 2px 0 rgb(219, 219, 219);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+.left{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+.logo{
+    width: 70px;
+    height: 60px;
+    margin: 0 30px;
+    display: flex;
+    align-items: center;
+
+}
+
+.info h4{
+    font-size: 23px;
+    margin-top: 15px;
+}
+.left-logo{
+    width: 120px;
+    height: auto;
+}

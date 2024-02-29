@@ -1,0 +1,18 @@
+
+.cart {
+  margin: 10px 20px ;
+  background-color: gray;
+  border-radius: 15px;
+  padding: 10px;
+  color: #fff;
+  }
+  
+  
+  
+  .img {
+    border-radius: 13px;
+  }
+  
+  .cart-title{
+    margin-top: 15px;
+  }
